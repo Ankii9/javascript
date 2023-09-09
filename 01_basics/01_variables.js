@@ -9,7 +9,7 @@ let accountState; //putting ";" is an option in js
 accountEamil = "ar@ar.com"
 accountPassword = "8569"
 accountCity = "Bengaluru"
-
+accountBalance = null
 console.log(accountId)
 
 /*
