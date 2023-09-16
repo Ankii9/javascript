@@ -13,7 +13,7 @@ let temp; // undefined  => value is not assigned yet
 //bigint 
 //string => ""
 //boolean => true/false
-//null => stanalone value
+//null => standalone value
 //undefined =>
 //symbol => unique
 
