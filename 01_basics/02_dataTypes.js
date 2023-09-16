@@ -1,6 +1,7 @@
 "use strict";   // treat all JS code as newer version
 
 //alert( 3 + 3 ) // we are using nodejs, not browser
+// the above alet command will give output in browser here it will give error here.
 
 let age = 3
 let name = "Ankit"
